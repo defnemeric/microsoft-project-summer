@@ -23,7 +23,7 @@ The dataset used in this project provides the history of daily prices of Microso
 - README.md: Project description documentation.
 - MSFT.csv: The dataset of Microsoft stock prices.
 - stock-prediction-pytorch.ipynb: Jupyter notebook that consists of data analysis, LSTM model building, training, evaluation, data exploration, and interpretation of the results
-- .png files: The results on the test dataset with specific scenarios.
+- imaegs folder: The training and evaluation results displayed as plots
 
 ## Model Architecture
 
