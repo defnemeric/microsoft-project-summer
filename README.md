@@ -10,13 +10,14 @@ The main goal is to apply machine learning techniquest to real world financial d
 This project focuses on developing a stock price prediction model using a type of RNN called LSTM (Long Short-Term Memory) neural network built in PyTorch and optimized with Optuna.
 
 ## Dataset
-The dataset used in this project provides the history of daily prices of Microsoft Stock(MSFT). The fields include:
-- open
-- high
-- low
-- close -> target value we want to predict
-- adj close
-- volume
+The dataset used in this project provides the history of daily prices of Microsoft Stock(MSFT). 
+- The fields include:
+    - open
+    - high
+    - low
+    - close -> target value we want to predict
+    - adj close
+    - volume
 
 ## Project Structure
 - README.md: Project description documentation.
