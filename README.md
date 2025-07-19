@@ -19,6 +19,7 @@ The dataset used in this project provides the history of daily prices of Microso
     - adj close
     - volume
 
+
 ## Project Structure
 - README.md: Project description documentation.
 - MSFT.csv: The dataset of Microsoft stock prices.
@@ -63,3 +64,5 @@ Defne Meric Erdogan [LinkedIn](https://www.linkedin.com/in/defne-meric-erdogan/)
 
 ## Acknowledgments
 Special thanks to Barbaros Gunay for his mentorship and guidance throughout the program.
+
+Dataset: Verma, Arpit. (2022). Microsoft Stock Data. Retrieved July 16 2025 from https://www.kaggle.com/datasets/varpit94/microsoft-stock-data
