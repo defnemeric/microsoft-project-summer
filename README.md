@@ -52,6 +52,7 @@ cd microsoft-project-summer
 pip install -r requirements.txt
 ~~~
 1) Make sure MSFT.csv is placed in the project root directory.
+2) Create a virtual environment and download the requirements
 2) Run stock-prediction-pytorch.ipynb to preprocess data, train the LSTM model, and evaluate predictions.
 
 ## Sample Output
